@@ -34,10 +34,10 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
  - 📍 *Uttarakhand Technical University-----------------------< 2021-2025 >*\
  📖*Bachelor's of technology-< Computer Science and Engineering >*
  
- - 📍 *Jitendra Kumar Vishwakarma High School Medininagar, jharkhand------------------< 2020-2021 >*\
+ - 📍 *Jitendra Kumar Vishwakarma High School Medininagar, jharkhand------------------< 2018-2019 >*\
    📖*Senior Secondary Schooling-< Intermediate Science >*
  
- - 📍 *Satyam International, patna------------------< 2018-2019 >*\
+ - 📍 *Satyam International, patna------------------< 2020-2021 >*\
    📖*Secondary Schooling*
  
    
