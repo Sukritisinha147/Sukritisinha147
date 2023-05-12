@@ -1,8 +1,8 @@
-![download](https://github.com/sukritisinha147/sukritisinha147/assets/128803186/416cfa28-d440-47c2-8efb-61183a270dad)
-
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
+
 
 
 ### Hi there, I'm [Sukriti Sinha](https://www.linkedin.com/in/sukriti-sinha-09248123a/)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
